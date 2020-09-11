@@ -1,6 +1,6 @@
 ---
-title: AssistantApps - Documentation
-subtitle: Documentation to help you understand all the tools available for you to use
+title: AssistantApps Documentation
+subtitle: Information to help you understand all the tools available for you to use
 image: img/16.jpg
 blurb:
   heading: What is are the AssistantApps
