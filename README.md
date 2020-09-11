@@ -4,5 +4,5 @@
 
 ---
 
-[docs-assistantapps.netlify.app](https://docs-assistantapps.netlify.app/)
+[docs.assistantapps.com](https://docs.assistantapps.com)
 
