@@ -3,7 +3,7 @@ title: AssistantApps Documentation
 subtitle: Information to help you understand all the tools available for you to use
 image: img/16.jpg
 blurb:
-  heading: What is are the AssistantApps
+  heading: What is are the AssistantApps?
   text: There are several apps that are part of AssistantApps. The first app to be
     released was the Assistant for No Man's Sky. The goal of the AssistantApps
     are to be easy to use and packed full of helpful information
